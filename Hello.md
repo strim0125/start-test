@@ -37,4 +37,22 @@ Git add
 
 ## Работа к картинками
 
-![Собака](http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQkrjYxSfSHeCEA7hkPy8e2JphDsfFHZVKqx-3t37E4XKr-AT7DML8IwtwY0TnZsUcQ)
+![Собака](https://www.google.com/search?hl=ru&sxsrf=AJOqlzU2ELFTBZjv3xdG2d-2v_-Zs_tjbA:1677261572935&q=Немецкая+овчарка&stick=H4sIAAAAAAAAAONgFuLUz9U3SCqxzClS4gAxs3NNk7X4_YvSE_Myi3ND8p2KUlNTFrHKX5h7YeuFPRe2Xmy7sOvChov9Chf2Xdh0sR3IbAAJ7GBlBAA07Ny0TQAAAA&sa=X&ved=2ahUKEwi37f-h3q79AhWymIsKHR7pD6cQxA16BAhYEAU&biw=1488&bih=750&dpr=1.25#)
+
+## Работа со списками
+
+1.
+2. 
+
+*
+* 
++
++
+-
+-
+
+## Работа с цититататм
+
+> Что то пишем  
+>>  Что то пишем 
+
